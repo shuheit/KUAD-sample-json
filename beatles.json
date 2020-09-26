@@ -1,0 +1,24 @@
+{
+  "album": {
+    "Please Please Me" : {
+      "date" : "1963年3月22日",
+      "songs" : {
+        "side1" : ["I Saw Her Standing There", "Misery", "Anna (Go to Him)", "Chains", "Boys", "Ask Me Why", "Please Please Me"],
+        "side2" : ["Love Me Do", "P.S. I Love You", "Baby It's You", "Do You Want to Know a Secret", "A Taste of Honey", "There's a Place", "Twist and Shout"]
+      }
+    },
+    "With The Beatles" : {
+      "date" : "1963年11月22日",
+      "songs" : {
+        "side1" : ["It Won't Be Long", "All I've Got to Do", "All My Loving", "Don't Bother Me", "Little Child", "Till There Was You", "Please Mr. Postman"],
+        "side2" : ["Roll Over Beethoven", "Hold Me Tight", "You Really Got a Hold on Me", "I Wanna Be Your Man", "Devil in Her Heart", "Not a Second Time", "Money (That's What I Want)"]
+      }
+    },
+    "A Hard Day's Night" : {
+      "date" : "1964年7月10日",
+      "songs" : {
+        "side1" : ["A Hard Day's Night", "Tell Me Why", "I'll Cry Instead", "I Should Have Known Better", "I'm Happy Just to Dance with You", "And I Love Her"],
+        "side2" : ["I Should Have Known Better", "If I Fell", "And I Love Her", "Ringo's Theme (This Boy)", "Can't Buy Me Love", "A Hard Day's Night"]
+      }
+    }
+}
